@@ -1,2 +1,2 @@
 # AuraScape
-A software for mixing ambiant sounds to make your own personaliced sound scape
+A software for mixing ambiant sounds to make your own personalised sound scape
